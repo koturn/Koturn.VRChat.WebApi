@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koturn.VRChat.WebApi", "Koturn.VRChat.WebApi\Koturn.VRChat.WebApi.csproj", "{9E546DAF-CC4B-44D5-9AE3-B539032558EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E546DAF-CC4B-44D5-9AE3-B539032558EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E546DAF-CC4B-44D5-9AE3-B539032558EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E546DAF-CC4B-44D5-9AE3-B539032558EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E546DAF-CC4B-44D5-9AE3-B539032558EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1434827-5BE5-4C83-875E-75D30E872901}
+	EndGlobalSection
+EndGlobal

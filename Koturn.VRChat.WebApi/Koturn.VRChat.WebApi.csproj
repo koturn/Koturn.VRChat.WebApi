@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>10</LangVersion>
+    <Nullable>enable</Nullable>
+    <Title>Koturn.VRChat.Log</Title>
+    <Company>koturn</Company>
+    <Description>VRChat Web API client library.</Description>
+    <Copyright>Copyright (C) 2024 koturn All Rights Reserverd.</Copyright>
+    <PackageProjectUrl>https://github.com/koturn/Koturn.VRChat.WebApi</PackageProjectUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/koturn/Koturn.VRChat.WebApi</RepositoryUrl>
+    <Version>0.1.0.0</Version>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Json" Version="4.7.1" />
+  </ItemGroup>
+
+</Project>
